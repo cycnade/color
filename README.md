@@ -1,2 +1,2 @@
 # color guessing game
-visit : https://cycnade.github.io/color/
+visit : https://farazkhawaja.github.io/color/
